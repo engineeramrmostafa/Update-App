@@ -3,6 +3,11 @@
   "latestVersionName": "1.0.0.1",
   "forceUpdate": true,
   "updateUrl": "https://your-download-link.com/app.apk",
+  "updateTitle": {
+    "en": "Update your app",
+    "ar": "تحديث تطبيقك",
+    "fr": "Update your app fr"
+  },
   "releaseNotes": {
     "en": "Performance improved and login issue fixed",
     "ar": "تم تحسين الأداء وإصلاح مشكلة تسجيل الدخول",
